@@ -9,7 +9,7 @@ Whiteboard design session student guide
 </div>
 
 <div class="MCWHeader3">
-December 2018
+Sept 2019
 </div>
 
 
@@ -294,6 +294,6 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 | Database Migration Guide   | <https://datamigration.microsoft.com/>      |
 | Windows Server Migration Guide   | <https://go.microsoft.com/fwlink/?linkid=872689>      |
 | Azure Database Migration Service   | <https://docs.microsoft.com/en-us/azure/dms/dms-overview>      |
-| Data Migration Assistant   | <https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-2017>      |
-| Database Experimentation Assistant   | https://blogs.msdn.microsoft.com/datamigration/2018/08/06/release-database-experimentation-assistant-dea-v2-6/      |
+| Data Migration Assistant   | <https://docs.microsoft.com/en-us/sql/dma/dma-overview>      |
+| Database Experimentation Assistant   | <https://docs.microsoft.com/en-us/sql/dea/database-experimentation-assistant-overview>      |
 | Azure Cost Management   | <https://docs.microsoft.com/en-us/azure/cost-management/overview>   |
