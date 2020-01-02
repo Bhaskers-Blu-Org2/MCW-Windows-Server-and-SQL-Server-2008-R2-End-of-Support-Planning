@@ -1,5 +1,7 @@
 # Windows Server and SQL Server 2008 R2 end of support planning
 
+## This workshop is no longer eing maintaied and will be archived on March 31, 2010.
+
 Many customers have huge on-premises footprints of Windows Server and SQL Server 2008 and 2008 R2, but these products are rapidly approaching End of Support (EOS). This session is designed to help customers understand the risks of running unsupported software and presents great options for using EOS to modernize in Azure or on-premises.
 
 September 2019
@@ -34,16 +36,3 @@ Data Modernization to Azure
 
 ## Related references
 - [MCW](https://github.com/Microsoft/MCW)
-
-## Help & Support
-
-We welcome feedback and comments from Microsoft SMEs & learning partners who deliver MCWs.  
-
-***Having trouble?***
-- First, verify you have followed all written lab instructions (including the Before the Hands-on lab document).
-- Next, submit an issue with a detailed description of the problem.
-- Do not submit pull requests. Our content authors will make all changes and submit pull requests for approval.  
-
-If you are planning to present a workshop, *review and test the materials early*! We recommend at least two weeks prior.
-
-### Please allow 5 - 10 business days for review and resolution of issues.
