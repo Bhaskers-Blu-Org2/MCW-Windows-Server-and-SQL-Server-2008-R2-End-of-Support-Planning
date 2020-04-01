@@ -1,6 +1,6 @@
 # Windows Server and SQL Server 2008 R2 end of support planning
 
-## This workshop is no longer being maintained and will be archived on March 31, 2020.
+## This workshop is archived and is no longer being maintained. Content is read-only.
 
 Many customers have huge on-premises footprints of Windows Server and SQL Server 2008 and 2008 R2, but these products are rapidly approaching End of Support (EOS). This session is designed to help customers understand the risks of running unsupported software and presents great options for using EOS to modernize in Azure or on-premises.
 
